@@ -4,110 +4,124 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:123B65,100:06B6D4&height=230&section=header&text=AETHER&fontSize=75&fontColor=FFFFFF&animation=twinkling&desc=THE%20FUTURE%20IS%20BUILT%20WITH%20CODE&descSize=15&descColor=BAE6FD&descAlignY=65" width="100%" />
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2500&pause=1000&color=06B6D4&center=true&vCenter=true&width=650&lines=Hey%2C+I'm+Antar+Nath;Creative+Web+Developer;Building+Modern+Digital+Experiences;Welcome+To+My+World!" />
+<img src="assets/aether-banner.svg" width="100%" alt="Aether X" />
 
 <br/>
 
-<a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-0F172A?style=for-the-badge&logo=github&logoColor=06B6D4" />
-</a>
+# ANTAR NATH
 
-<a href="https://github.com/antar4241?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-164E63?style=for-the-badge&logo=rocket&logoColor=white" />
-</a>
+### ✦ CREATIVE WEB DEVELOPER ✦
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2500&pause=800&color=00D9FF&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Universe;Frontend+Developer+in+Progress;Learning+Full+Stack+Development;Building+Ideas+Into+Reality" alt="Typing animation" />
+
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-antar4241-111827?style=for-the-badge&logo=github)](https://github.com/antar4241)
+[![Repositories](https://img.shields.io/badge/Repositories-Explore-172554?style=for-the-badge&logo=github)](https://github.com/antar4241?tab=repositories)
 
 </div>
 
 ---
 
-## ◈ ABOUT ME
+## ◈ 01 — ABOUT ME
 
 Hi! I'm **Antar Nath**, an aspiring web developer from Bangladesh.
 
-- 💻 Web Development Enthusiast
-- 🎨 Interested in Modern UI/UX
-- 🚀 Learning Full Stack Development
-- ⚡ Exploring creative coding
-- 🌱 Always improving my skills
+I enjoy creating modern websites with clean design and smooth user experiences.
+
+- 💻 Interested in Web Development
+- 🎨 Passionate about UI/UX Design
+- ⚡ Learning Next.js and TypeScript
+- 🔧 Exploring Backend Development
+- 🚀 Working towards becoming a Full Stack Developer
 
 ---
 
-## ◈ TECH STACK
+## ◈ 02 — TECHNOLOGY STACK
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,vscode,vercel&theme=dark" />
+### FRONTEND
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills" />
+
+### BACKEND
+
+<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" alt="Backend skills" />
+
+### TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" alt="Development tools" />
 
 </div>
 
 ---
 
-## ◈ GITHUB ANALYTICS
+## ◈ 03 — GITHUB ANALYTICS
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&theme=tokyonight&hide_border=true&bg_color=020617&title_color=06B6D4&icon_color=38BDF8&text_color=E2E8F0&rank_icon=github" width="100%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true&bg_color=020617&title_color=06B6D4&text_color=E2E8F0" width="100%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=020617&ring=06B6D4&fire=38BDF8&currStreakLabel=06B6D4" width="100%" />
+<img src="./images/userstats.svg" width="100%" alt="GitHub Analytics" />
 
 </div>
 
 ---
 
-## ◈ CONTRIBUTION GRAPH
+## ◈ 04 — CONTRIBUTION SNAKE
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antar4241&bg_color=020617&color=06B6D4&line=38BDF8&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./dist/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./dist/github-snake.svg" />
+  <img src="./dist/github-snake.svg" width="100%" alt="Animated GitHub contribution snake" />
+</picture>
 
 </div>
 
 ---
 
-## ◈ PROJECTS
+## ◈ 05 — MY PROJECTS
 
-| Project | Description |
-|---|---|
-| 📚 BookVerse | Modern Book Platform Concept |
-| 🌐 Portfolio | Personal Developer Portfolio |
-| 🛒 E-Commerce | Online Shopping Concept |
+### 📚 BookVerse
+A modern online book platform concept.
+
+**Planned technologies:** Next.js, TypeScript, Tailwind CSS, Express.js.
+
+### 🌐 Personal Portfolio
+A personal website to showcase my skills and work.
+
+### 🛒 E-Commerce
+A modern online shopping website concept.
+
+[Explore My Repositories →](https://github.com/antar4241?tab=repositories)
 
 ---
 
-## ◈ MY ROADMAP
+## ◈ 06 — LEARNING ROADMAP
 
-- [x] HTML & CSS
+- [x] HTML & CSS Fundamentals
 - [x] JavaScript Fundamentals
 - [x] React.js Learning
-- [ ] TypeScript Mastery
+- [ ] Advanced TypeScript
 - [ ] Next.js Development
 - [ ] Express.js Backend
 - [ ] Full Stack Projects
 
 ---
 
+## ◈ 07 — CONNECT
+
 <div align="center">
 
-## ◈ CONNECT WITH ME
+[![GitHub](https://img.shields.io/badge/FOLLOW%20ME-ANTAR4241-111827?style=for-the-badge&logo=github)](https://github.com/antar4241)
 
-<a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-020617?style=for-the-badge&logo=github&logoColor=06B6D4" />
-</a>
+<br/>
 
-<br/><br/>
+**"Dream. Design. Develop. Repeat."**
 
-<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=0891B2&label=PROFILE+VIEWS" />
+<br/>
 
-<br/><br/>
-
-**BUILD. CREATE. INNOVATE.**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,50:123B65,100:06B6D4&height=130&section=footer" width="100%" />
+<sub>© 2026 ANTAR NATH | AETHER X</sub>
 
 </div>
