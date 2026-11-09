@@ -1,24 +1,27 @@
 
-
 <div align="center">
 
-<!-- ANIMATED HEADER -->
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=90&lines=ANTAR+NATH;WELCOME+TO+ANTARVERSE;CREATIVE+WEB+DEVELOPER" alt="Animated Header" />
+<!-- FAST ANIMATED HEADER -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=1800&pause=400&color=00E5FF&center=true&vCenter=true&width=750&height=85&lines=ANTAR+NATH;WELCOME+TO+ANTARVERSE;CREATIVE+WEB+DEVELOPER">
+  <source media="(prefers-color-scheme: light)" srcset="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=1800&pause=400&color=6D28D9&center=true&vCenter=true&width=750&height=85&lines=ANTAR+NATH;WELCOME+TO+ANTARVERSE;CREATIVE+WEB+DEVELOPER">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=38&duration=1800&pause=400&color=00E5FF&center=true&vCenter=true&width=750&height=85&lines=ANTAR+NATH;WELCOME+TO+ANTARVERSE;CREATIVE+WEB+DEVELOPER" alt="Animated Header">
+</picture>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Building+Digital+Experiences;Always+Learning+Something+New" alt="Animated Subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&duration=1800&pause=400&color=A78BFA&center=true&vCenter=true&width=650&height=35&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Building+Digital+Experiences;Always+Learning" alt="Subtitle">
 
 <br/>
 
-<img src="https://img.shields.io/badge/ANTARVERSE-DIGITAL%20UNIVERSE-111827?style=for-the-badge&logo=github&logoColor=00E5FF" />
+<img src="https://img.shields.io/badge/ANTARVERSE-DIGITAL%20UNIVERSE-6D28D9?style=for-the-badge&logo=github&logoColor=white" />
 
 <br/><br/>
 
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-24292F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://github.com/antar4241?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-312E81?style=for-the-badge&logo=rocket&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-6D28D9?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
 </div>
@@ -61,11 +64,9 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 # ✦ 03 — GITHUB ANALYTICS
 
-<img src="https://ghstats.dev/api/card?username=antar4241&theme=midnight&show_icons=true&show_ring=true" width="100%" alt="GitHub Analytics" />
-
-<br/><br/>
-
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true" width="85%" alt="Top Languages" />
+<a href="https://github.com/antar4241">
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=transparent&hide_border=true" width="85%" alt="Top Languages" />
+</a>
 
 </div>
 
@@ -75,7 +76,7 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 # ✦ 04 — CONTRIBUTION STREAK
 
-<img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" width="100%" alt="GitHub Streak" />
+<img src="https://streak-stats.demolab.com?user=antar4241&theme=transparent&hide_border=true&ring=8B5CF6&fire=00BFFF&currStreakLabel=8B5CF6&sideLabels=808080&dates=808080" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -85,7 +86,7 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 # ✦ 05 — CONTRIBUTION GRAPH
 
-<img src="https://ghchart.rshah.org/00E5FF/antar4241" width="100%" alt="GitHub Contribution Calendar" />
+<img src="https://ghchart.rshah.org/8B5CF6/antar4241" width="100%" alt="GitHub Contribution Calendar" />
 
 </div>
 
@@ -131,16 +132,16 @@ Modern online shopping experience.
 # ✦ 08 — CONNECT WITH ME
 
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/FOLLOW-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/FOLLOW-ANTAR4241-6D28D9?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=6D28D9&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=THANKS+FOR+VISITING;KEEP+CODING;DREAM+BIG.+BUILD+BIG." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=1600&pause=400&color=8B5CF6&center=true&vCenter=true&width=550&height=40&lines=THANKS+FOR+VISITING;KEEP+CODING;DREAM+BIG.+BUILD+BIG." />
 
 <br/>
 
