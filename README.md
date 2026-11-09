@@ -1,120 +1,109 @@
 
 
 
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09001F,50:3B0A70,100:00D9FF&height=240&section=header&text=ANTARVERSE&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=00D9FF&strokeWidth=1" width="100%" />
+<img src="./assets/obsidian-banner.svg" width="100%" alt="Obsidian Developer Banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+MODE...;HELLO%2C+I'M+ANTAR+NATH;CREATIVE+MIND+%7C+DEVELOPER+IN+PROGRESS;WELCOME+TO+MY+DIGITAL+WORLD" />
+# ANTAR NATH
+
+### CREATIVE DEVELOPER • DIGITAL BUILDER
+
+**Turning Ideas Into Digital Experiences.**
 
 <br/>
 
-<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&logo=probot&logoColor=black" />
-<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-7B2FFF?style=for-the-badge" />
+[![GitHub](https://img.shields.io/badge/GitHub-antar4241-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/antar4241)
+
+[![Status](https://img.shields.io/badge/STATUS-LEARNING%20%26%20BUILDING-777777?style=flat-square)](https://github.com/antar4241)
 
 </div>
 
 ---
 
-## ◈ WHO AM I?
+## 01 / ABOUT ME
 
-```js
-const antar = {
-  name: "Antar Nath",
-  username: "antar4241",
-  role: "Aspiring Web Developer",
-  country: "Bangladesh",
-  interests: [
-    "Web Development",
-    "UI/UX Design",
-    "Creative Coding"
-  ],
-  currentlyLearning: [
-    "TypeScript",
-    "Next.js",
-    "Express.js"
-  ],
-  motto: "Think Beyond Limits."
-};
-```
+Hello! I'm **Antar Nath**, an aspiring web developer from Bangladesh.
+
+I enjoy creating beautiful, modern and user-friendly websites.
+
+- ◈ Learning modern web development
+- ◈ Exploring creative UI/UX design
+- ◈ Building projects with React and Next.js
+- ◈ Improving my backend development skills
+- ◈ Focused on becoming a Full Stack Developer
 
 ---
 
-<div align="center">
+## 02 / TECHNOLOGY STACK
 
-## ◈ MY DIGITAL ARSENAL
+**Frontend**
 
-**FRONTEND**
+`HTML5` `CSS3` `JavaScript` `TypeScript`
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
+`React.js` `Next.js` `Tailwind CSS`
 
-**BACKEND & TOOLS**
+**Backend**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,vercel&theme=dark" />
+`Node.js` `Express.js`
 
-</div>
+**Tools**
 
----
-
-<div align="center">
-
-## ◈ DEVELOPER STATISTICS
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=9D4EDD&text_color=FFFFFF&bg_color=09001F" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=09001F" />
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=antar4241&theme=transparent&hide_border=true&background=09001F&ring=9D4EDD&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
-
-</div>
+`Git` `GitHub` `VS Code` `Vercel`
 
 ---
 
-## ◈ PROJECT UNIVERSE
+## 03 / CURRENT FOCUS
 
-| Project | Description | Status |
-|---|---|---|
-| 📚 BookVerse | Modern Book Platform | Planning |
-| 🌐 Portfolio | Personal Developer Portfolio | Building |
-| 🛒 E-Commerce | Online Shopping Platform | Upcoming |
+| Area | Focus |
+|:---|:---|
+| Frontend | Next.js + TypeScript |
+| Styling | Tailwind CSS |
+| Backend | Express.js |
+| Design | Modern UI/UX |
+| Goal | Full Stack Development |
 
 ---
 
-<div align="center">
+## 04 / PROJECT SHOWCASE
 
-## ◈ MISSION PROGRESS
+### ◈ BOOKVERSE
+A modern book platform concept.
 
-</div>
+**Planned Stack:** Next.js · TypeScript · Tailwind CSS · Express.js
 
-- [x] HTML & CSS
+### ◈ PERSONAL PORTFOLIO
+A personal space to showcase my skills and work.
+
+### ◈ FUTURE PROJECTS
+More creative projects coming soon.
+
+---
+
+## 05 / LEARNING JOURNEY
+
+- [x] HTML & CSS Fundamentals
 - [x] JavaScript Fundamentals
-- [x] React.js Learning
+- [x] React.js Basics
 - [ ] Advanced TypeScript
-- [ ] Next.js Mastery
-- [ ] Express.js Backend
-- [ ] Full Stack Projects
+- [ ] Next.js
+- [ ] Express.js
+- [ ] Full Stack Development
 
 ---
 
+## 06 / GITHUB
+
 <div align="center">
 
-## ◈ CONNECT WITH ME
+**Explore my repositories and follow my journey.**
 
-<a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-7B2FFF?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+[![GitHub](https://img.shields.io/badge/EXPLORE%20MY%20GITHUB-000000?style=for-the-badge&logo=github)](https://github.com/antar4241)
 
-<br/><br/>
+<br/>
 
-<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=7B2FFF&label=VISITORS" />
+*"Simplicity is the ultimate sophistication."*
 
-<br/><br/>
-
-### `CODE THE IMPOSSIBLE.`
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,50:3B0A70,100:00D9FF&height=130&section=footer" width="100%" />
+**ANTAR NATH © 2026**
 
 </div>
