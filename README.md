@@ -1,19 +1,24 @@
 
+
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=750&height=90&lines=ANTAR+NATH;WELCOME+TO+MY+UNIVERSE;CREATIVE+WEB+DEVELOPER" alt="Animated Aether Header" />
+<!-- ANIMATED HEADER -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2500&pause=900&color=00E5FF&center=true&vCenter=true&width=750&height=90&lines=ANTAR+NATH;WELCOME+TO+ANTARVERSE;CREATIVE+WEB+DEVELOPER" alt="Animated Header" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Building+Digital+Experiences;Always+Learning+Something+New" alt="Animated subtitle" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&duration=3000&pause=900&color=A78BFA&center=true&vCenter=true&width=650&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Building+Digital+Experiences;Always+Learning+Something+New" alt="Animated Subtitle" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/PROFILE-AETHER%20EDITION-111827?style=for-the-badge&logo=github&logoColor=00E5FF" />
-<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-312E81?style=for-the-badge" />
+<img src="https://img.shields.io/badge/ANTARVERSE-DIGITAL%20UNIVERSE-111827?style=for-the-badge&logo=github&logoColor=00E5FF" />
 
 <br/><br/>
 
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/FOLLOW%20MY%20JOURNEY-ANTAR4241-00B8D9?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+</a>
+
+<a href="https://github.com/antar4241?tab=repositories">
+<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-312E81?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
 
 </div>
@@ -22,7 +27,7 @@
 
 <div align="center">
 
-# ✦ 01 — WHO AM I?
+# ✦ 01 — ABOUT ME
 
 ### Hello, I'm Antar Nath 👋
 
@@ -32,8 +37,8 @@
 
 I'm from Bangladesh. I enjoy learning new technologies and creating modern digital experiences.
 
-- 💻 Interested in Web Development
-- 🎨 Love modern UI/UX design
+- 💻 Web Development Enthusiast
+- 🎨 Passionate about UI/UX Design
 - ⚡ Learning Next.js and TypeScript
 - 🔧 Exploring Express.js
 - 🚀 Building my developer journey
@@ -42,11 +47,11 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 <div align="center">
 
-# ✦ 02 — MY TECH UNIVERSE
+# ✦ 02 — TECHNOLOGY UNIVERSE
 
-### Technologies & Tools
+### My Skills & Tools
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,vscode,vercel&theme=dark" alt="Technology Stack" />
 
 </div>
 
@@ -56,11 +61,11 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 # ✦ 03 — GITHUB ANALYTICS
 
-<img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" width="100%" />
+<img src="https://ghstats.dev/api/card?username=antar4241&theme=midnight&show_icons=true&show_ring=true" width="100%" alt="GitHub Analytics" />
 
-<br/>
+<br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" width="85%" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true" width="85%" alt="Top Languages" />
 
 </div>
 
@@ -70,7 +75,7 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 # ✦ 04 — CONTRIBUTION STREAK
 
-<img src="https://streak-stats.demolab.com?user=antar4241&theme=transparent&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" width="100%" />
+<img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" width="100%" alt="GitHub Streak" />
 
 </div>
 
@@ -80,7 +85,7 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 # ✦ 05 — CONTRIBUTION GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antar4241&bg_color=0D1117&color=00E5FF&line=A78BFA&point=FFFFFF&area=true&hide_border=true" width="100%" />
+<img src="https://ghchart.rshah.org/00E5FF/antar4241" width="100%" alt="GitHub Contribution Calendar" />
 
 </div>
 
@@ -88,17 +93,20 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 <div align="center">
 
-# ✦ 06 — MY PROJECTS
+# ✦ 06 — PROJECT UNIVERSE
 
 </div>
 
-| Project | Description |
-|---|---|
-| 📚 BookVerse | Modern Book Platform Concept |
-| 🌐 Portfolio | Personal Developer Portfolio |
-| 🛒 E-Commerce | Online Shopping Concept |
+### 📚 BookVerse
+Modern online book platform concept.
 
-[Explore My GitHub Projects →](https://github.com/antar4241?tab=repositories)
+### 🌐 Personal Portfolio
+A personal developer portfolio.
+
+### 🛒 E-Commerce
+Modern online shopping experience.
+
+[Explore My Repositories →](https://github.com/antar4241?tab=repositories)
 
 ---
 
@@ -108,7 +116,7 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 </div>
 
-- [x] HTML & CSS
+- [x] HTML & CSS Fundamentals
 - [x] JavaScript Fundamentals
 - [x] React.js Learning
 - [ ] Advanced TypeScript
@@ -123,18 +131,20 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 # ✦ 08 — CONNECT WITH ME
 
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/FOLLOW-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=312E81&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=312E81&label=PROFILE+VIEWS" />
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=THANKS+FOR+VISITING;KEEP+CODING+%F0%9F%9A%80;DREAM+BIG.+BUILD+BIG." />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=550&lines=THANKS+FOR+VISITING;KEEP+CODING;DREAM+BIG.+BUILD+BIG." />
 
 <br/>
+
+### "THINK DIFFERENT. CREATE BETTER."
 
 **ANTAR NATH © 2026**
 
