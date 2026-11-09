@@ -1,59 +1,57 @@
 
 
 
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050505,50:14251C,100:050505&height=220&section=header&text=ANTAR%20NATH&fontSize=58&fontColor=D8C18A&fontAlignY=40&animation=fadeIn&desc=THE%20DIGITAL%20CRAFTSMAN&descSize=15&descColor=FFFFFF&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:09001F,50:3B0A70,100:00D9FF&height=240&section=header&text=ANTARVERSE&fontSize=65&fontColor=FFFFFF&animation=twinkling&stroke=00D9FF&strokeWidth=1" width="100%" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=21&duration=2500&pause=900&color=00D9FF&center=true&vCenter=true&width=650&lines=INITIALIZING+DEVELOPER+MODE...;HELLO%2C+I'M+ANTAR+NATH;CREATIVE+MIND+%7C+DEVELOPER+IN+PROGRESS;WELCOME+TO+MY+DIGITAL+WORLD" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=D8C18A&center=true&vCenter=true&width=600&lines=Creative+Developer;Frontend+%26+Full+Stack+Learner;Building+Digital+Experiences;Code.+Create.+Innovate." />
-
-<br/><br/>
-
-<a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-C9A96E?style=for-the-badge&logo=github&logoColor=black" />
-</a>
-
-<img src="https://img.shields.io/badge/BASED_IN-BANGLADESH-1D4934?style=for-the-badge" />
+<img src="https://img.shields.io/badge/SYSTEM-ONLINE-00D9FF?style=for-the-badge&logo=probot&logoColor=black" />
+<img src="https://img.shields.io/badge/LOCATION-BANGLADESH-7B2FFF?style=for-the-badge" />
 
 </div>
 
 ---
 
-<div align="center">
+## ◈ WHO AM I?
 
-## ━━━ THE PERSON BEHIND THE CODE ━━━
-
-</div>
-
-I'm **Antar Nath**, an aspiring developer who loves creating modern, clean and meaningful digital experiences.
-
-I believe great design is not just about appearance — it's about how people feel when they use it.
-
-- ⚡ Exploring modern web technologies
-- 🎨 Interested in premium UI/UX
-- 💻 Building with modern JavaScript frameworks
-- 🚀 Growing into a Full Stack Developer
-- 🌍 From Bangladesh
+```js
+const antar = {
+  name: "Antar Nath",
+  username: "antar4241",
+  role: "Aspiring Web Developer",
+  country: "Bangladesh",
+  interests: [
+    "Web Development",
+    "UI/UX Design",
+    "Creative Coding"
+  ],
+  currentlyLearning: [
+    "TypeScript",
+    "Next.js",
+    "Express.js"
+  ],
+  motto: "Think Beyond Limits."
+};
+```
 
 ---
 
 <div align="center">
 
-## ━━━ TECHNOLOGY STACK ━━━
+## ◈ MY DIGITAL ARSENAL
 
 **FRONTEND**
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" />
 
-**BACKEND**
+**BACKEND & TOOLS**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express&theme=dark" />
-
-**TOOLS**
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,git,github,vscode,vercel&theme=dark" />
 
 </div>
 
@@ -61,72 +59,62 @@ I believe great design is not just about appearance — it's about how people fe
 
 <div align="center">
 
-## ━━━ GITHUB PERFORMANCE ━━━
+## ◈ DEVELOPER STATISTICS
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&hide_border=true&bg_color=050505&title_color=D8C18A&icon_color=1D9B68&text_color=FFFFFF&rank_icon=github" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&theme=transparent&hide_border=true&title_color=00D9FF&icon_color=9D4EDD&text_color=FFFFFF&bg_color=09001F" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&hide_border=true&bg_color=050505&title_color=D8C18A&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=transparent&hide_border=true&title_color=00D9FF&text_color=FFFFFF&bg_color=09001F" />
 
 <br/><br/>
 
-<img width="75%" src="https://streak-stats.demolab.com?user=antar4241&hide_border=true&background=050505&ring=D8C18A&fire=1D9B68&currStreakLabel=D8C18A&sideLabels=FFFFFF&dates=999999&currStreakNum=FFFFFF&sideNums=FFFFFF" />
+<img width="75%" src="https://streak-stats.demolab.com?user=antar4241&theme=transparent&hide_border=true&background=09001F&ring=9D4EDD&fire=00D9FF&currStreakLabel=00D9FF&sideLabels=FFFFFF&dates=AAAAAA&currStreakNum=FFFFFF&sideNums=FFFFFF" />
 
 </div>
 
 ---
 
-<div align="center">
+## ◈ PROJECT UNIVERSE
 
-## ━━━ SELECTED WORKS ━━━
-
-</div>
-
-### 📚 BookVerse
-A modern book platform concept.
-
-### 🌐 Personal Portfolio
-A premium portfolio to showcase my skills and projects.
-
-### 🛍️ E-Commerce
-A modern online shopping experience.
-
-> More projects coming soon...
+| Project | Description | Status |
+|---|---|---|
+| 📚 BookVerse | Modern Book Platform | Planning |
+| 🌐 Portfolio | Personal Developer Portfolio | Building |
+| 🛒 E-Commerce | Online Shopping Platform | Upcoming |
 
 ---
 
 <div align="center">
 
-## ━━━ THE ROAD AHEAD ━━━
+## ◈ MISSION PROGRESS
 
 </div>
 
-- [x] HTML & CSS Fundamentals
+- [x] HTML & CSS
 - [x] JavaScript Fundamentals
 - [x] React.js Learning
 - [ ] Advanced TypeScript
-- [ ] Master Next.js
-- [ ] Backend Development
-- [ ] Build Full Stack Applications
-- [ ] Become a Professional Developer
+- [ ] Next.js Mastery
+- [ ] Express.js Backend
+- [ ] Full Stack Projects
 
 ---
 
 <div align="center">
 
-## ━━━ LET'S CONNECT ━━━
+## ◈ CONNECT WITH ME
 
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=D8C18A" />
+<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-7B2FFF?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=1D4934&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=7B2FFF&label=VISITORS" />
 
 <br/><br/>
 
-**"Elegance in Design. Precision in Code."**
+### `CODE THE IMPOSSIBLE.`
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:14251C,100:050505&height=120&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:09001F,50:3B0A70,100:00D9FF&height=130&section=footer" width="100%" />
 
 </div>
