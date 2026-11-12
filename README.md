@@ -1,29 +1,21 @@
-
 <div align="center">
 
-<!-- ═══════════════ ANIMATED HEADER ═══════════════ -->
+<!-- ═══════════════ ANIMATED WAVE HEADER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:312E81,100:00E5FF&height=180&section=header&text=ANTARVERSE&fontSize=45&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20Antar%20Nath's%20Digital%20Universe&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=42&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=800&height=90&lines=ANTAR+NATH;WELCOME+TO+ANTARVERSE;CREATIVE+WEB+DEVELOPER" alt="ANTARVERSE Animated Header"/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=17&duration=2500&pause=700&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Code+%E2%80%A2+Create+%E2%80%A2+Innovate;Building+Digital+Experiences;Always+Learning+Something+New" alt="Animated Subtitle"/>
+<!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Hi+There%2C+I'm+Antar+Nath+%F0%9F%91%8B;Creative+Web+Developer+%7C+UI%2FUX+Enthusiast;Building+Modern+Digital+Experiences" alt="ANTARVERSE Animated Header"/>
 
 <br/>
 
-<img src="https://img.shields.io/badge/ANTARVERSE-DIGITAL%20UNIVERSE-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
-
-<br/><br/>
-
+<!-- ═══════════════ BADGES & LINKS ═══════════════ -->
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/GITHUB-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/GITHUB-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
-
 <a href="https://github.com/antar4241?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-PROJECTS-312E81?style=for-the-badge&logo=rocket&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EXPLORE-PROJECTS-312E81?style=for-the-badge&logo=rocket&logoColor=white"/>
 </a>
-
-<br/><br/>
-
-<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=312E81&label=PROFILE+VIEWS"/>
+<img src="https://komarev.com/ghpvc/?username=antar4241&style=for-the-badge&color=00E5FF&labelColor=111827&label=PROFILE+VIEWS"/>
 
 </div>
 
@@ -31,38 +23,33 @@
 
 <div align="center">
 
-# ✦ 01 — ABOUT ME
-
-### Hello, I'm Antar Nath 👋
+## ✦ 01 — ABOUT ME
 
 **Aspiring Web Developer | Creative Thinker | Future Full Stack Developer**
 
 </div>
 
-I'm from Bangladesh. I enjoy learning new technologies and creating modern digital experiences.
+> 🌍 Based in **Bangladesh** — Passionate about crafting clean, interactive, and modern web applications.
 
-- 💻 Web Development Enthusiast
-- 🎨 Passionate about UI/UX Design
-- ⚡ Learning Next.js and TypeScript
-- 🔧 Exploring Express.js
-- 🚀 Building my developer journey
-- 🌱 Always learning something new
+- 💻 **Focus:** Frontend & Full-Stack Web Development
+- 🎨 **Passion:** Modern UI/UX Design & Smooth Animations
+- ⚡ **Currently Learning:** Next.js, TypeScript & Express.js
+- 🚀 **Goal:** Building scalable, real-world digital products
+- 🌱 **Mindset:** Always curious, always building something new
 
 ---
 
 <div align="center">
 
-# ✦ 02 — TECHNOLOGY UNIVERSE
+## ✦ 02 — TECHNOLOGY UNIVERSE
 
-### My Skills & Tools
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,vscode,vercel&theme=dark" alt="Technology Stack"/>
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,express,git,github,vscode,vercel&theme=dark&perline=7" alt="Technology Stack"/>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/FRONTEND-HTML%20%7C%20CSS%20%7C%20JS-111827?style=flat-square"/>
-<img src="https://img.shields.io/badge/FRAMEWORK-REACT%20%7C%20NEXT.JS-312E81?style=flat-square"/>
-<img src="https://img.shields.io/badge/BACKEND-EXPRESS.JS-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/FRONTEND-HTML%20%7C%20CSS%20%7C%20JS%20%7C%20TS-111827?style=for-the-badge&logo=react&logoColor=00E5FF"/>
+<img src="https://img.shields.io/badge/FRAMEWORK-REACT%20%7C%20NEXT.JS-312E81?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/BACKEND-NODE.JS%20%7C%20EXPRESS-111827?style=for-the-badge&logo=nodedotjs&logoColor=00E5FF"/>
 
 </div>
 
@@ -70,25 +57,18 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 <div align="center">
 
-# ✦ 03 — GITHUB ANALYTICS
+## ✦ 03 — GITHUB ANALYTICS & STREAK
 
-### My Development Statistics
+<!-- Stats & Top Languages Side-by-Side -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF" height="175" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="175" alt="Top Languages"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF&rank_icon=github" width="100%" alt="GitHub Analytics"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" width="85%" alt="Top Languages"/>
-
-</div>
-
----
-
-<div align="center">
-
-# ✦ 04 — CONTRIBUTION STREAK
-
-<img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" width="100%" alt="GitHub Streak"/>
+<!-- Contribution Streak -->
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" width="85%" alt="GitHub Streak"/>
+</p>
 
 </div>
 
@@ -96,9 +76,9 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 <div align="center">
 
-# ✦ 05 — CONTRIBUTION GRAPH
+## ✦ 04 — CONTRIBUTION ACTIVITY GRAPH
 
-<img src="https://ghchart.rshah.org/00E5FF/antar4241" width="100%" alt="GitHub Contribution Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antar4241&bg_color=0D1117&color=00E5FF&line=A78BFA&point=00E5FF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -106,25 +86,18 @@ I'm from Bangladesh. I enjoy learning new technologies and creating modern digit
 
 <div align="center">
 
-# ✦ 06 — PROJECT UNIVERSE
+## ✦ 05 — FEATURED PROJECTS
 
-### Things I'm Building
+| Project | Description | Tech Stack | Status |
+| :--- | :--- | :--- | :--- |
+| **📚 BookVerse** | Modern online book discovery & reading platform concept | `React` `Tailwind` | 🚧 In Progress |
+| **🌐 Personal Portfolio** | Interactive and creative personal developer portfolio | `Next.js` `TypeScript` | ✨ Live / Updating |
+| **🛒 E-Commerce** | Full-featured modern online shopping experience | `MERN Stack` | 🛠️ Building |
 
-</div>
-
-### 📚 BookVerse
-Modern online book platform concept.
-
-### 🌐 Personal Portfolio
-A creative personal developer portfolio.
-
-### 🛒 E-Commerce
-Modern online shopping experience.
-
-<div align="center">
+<br/>
 
 <a href="https://github.com/antar4241?tab=repositories">
-<img src="https://img.shields.io/badge/EXPLORE-ALL%20PROJECTS-312E81?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/VIEW%20ALL%20REPOSITORIES-%E2%86%92-312E81?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 </div>
@@ -133,57 +106,37 @@ Modern online shopping experience.
 
 <div align="center">
 
-# ✦ 07 — MY ROADMAP
-
-### My Developer Journey
+## ✦ 06 — DEVELOPER ROADMAP
 
 </div>
 
-- [x] HTML & CSS Fundamentals
-- [x] JavaScript Fundamentals
-- [x] React.js Learning
-- [ ] Advanced TypeScript
-- [ ] Next.js Mastery
-- [ ] Express.js Backend
-- [ ] Full Stack Development
-- [ ] Build Real-World Projects
+- [x] **Phase 1:** HTML5, CSS3 & Modern Responsive Design
+- [x] **Phase 2:** JavaScript (ES6+) & DOM Manipulation
+- [x] **Phase 3:** React.js & Component Architecture
+- [ ] **Phase 4:** Advanced TypeScript & Next.js Mastery
+- [ ] **Phase 5:** Backend APIs with Node.js & Express.js
+- [ ] **Phase 6:** Full-Stack Deployment & Real-World SaaS Projects
 
 ---
 
 <div align="center">
 
-# ✦ 08 — DEVELOPER MINDSET
+## ✦ 07 — CONNECT & MINDSET
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=600&height=45&lines=THINK+DIFFERENT;BUILD+SOMETHING+UNIQUE;NEVER+STOP+LEARNING;TURN+IDEAS+INTO+REALITY" alt="Developer Mindset"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=THINK+DIFFERENT.+CREATE+BETTER.;TURN+IDEAS+INTO+REALITY.;NEVER+STOP+LEARNING." alt="Developer Mindset"/>
 
-</div>
-
----
-
-<div align="center">
-
-# ✦ 09 — CONNECT WITH ME
+<br/>
 
 <a href="https://github.com/antar4241">
-<img src="https://img.shields.io/badge/FOLLOW-ANTAR4241-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
+  <img src="https://img.shields.io/badge/FOLLOW%20ME%20ON%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
 </a>
 
 <br/><br/>
 
-<a href="https://github.com/antar4241?tab=repositories">
-<img src="https://img.shields.io/badge/MY-REPOSITORIES-312E81?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+**ANTAR NATH © 2026**  
+<sub>⚡ Powered by Creativity • Built with Passion in Bangladesh</sub>
 
-<br/><br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=21&duration=2000&pause=700&color=00E5FF&center=true&vCenter=true&width=600&height=45&lines=THANKS+FOR+VISITING;KEEP+CODING;DREAM+BIG.+BUILD+BIG." alt="Animated Footer"/>
-
-<br/><br/>
-
-### "THINK DIFFERENT. CREATE BETTER."
-
-**ANTAR NATH © 2026**
-
-<sub>⚡ Powered by Creativity • Built with Passion</sub>
+<!-- ═══════════════ ANIMATED WAVE FOOTER ═══════════════ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:312E81,100:0D1117&height=120&section=footer" width="100%"/>
 
 </div>
