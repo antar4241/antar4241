@@ -57,17 +57,17 @@
 
 <div align="center">
 
-## ✦ 03 — GITHUB ANALYTICS
+## ✦ 03 — GITHUB STREAK & STATS
 
-<img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats"/>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>
-
-<br/><br/>
-
+<!-- Working Streak Card -->
 <img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<!-- Reliable Shields.io GitHub Stats Badges -->
+<img src="https://img.shields.io/github/followers/antar4241?color=00E5FF&label=Followers&style=for-the-badge&logo=github&logoColor=111827"/>
+<img src="https://img.shields.io/github/stars/antar4241?color=312E81&label=Total%20Stars&style=for-the-badge&logo=github&logoColor=00E5FF"/>
+<img src="https://img.shields.io/github/repos/antar4241?color=111827&label=Repositories&style=for-the-badge&logo=github&logoColor=A78BFA"/>
 
 </div>
 
@@ -75,9 +75,9 @@
 
 <div align="center">
 
-## ✦ 04 — CONTRIBUTION ACTIVITY GRAPH
+## ✦ 04 — CONTRIBUTION GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antar4241&bg_color=0D1117&color=00E5FF&line=A78BFA&point=00E5FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
+<img src="https://ghchart.rshah.org/00E5FF/antar4241" width="100%" alt="GitHub Contribution Graph"/>
 
 </div>
 
