@@ -6,7 +6,7 @@
 <!-- ═══════════════ TYPING ANIMATION ═══════════════ -->
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=28&duration=2500&pause=800&color=00E5FF&center=true&vCenter=true&width=750&height=55&lines=Hi+There%2C+I'm+Antar+Nath+%F0%9F%91%8B;Creative+Web+Developer+%7C+UI%2FUX+Enthusiast;Building+Modern+Digital+Experiences" alt="ANTARVERSE Animated Header"/>
 
-<br/>
+<br/><br/>
 
 <!-- ═══════════════ BADGES & LINKS ═══════════════ -->
 <a href="https://github.com/antar4241">
@@ -57,18 +57,17 @@
 
 <div align="center">
 
-## ✦ 03 — GITHUB ANALYTICS & STREAK
+## ✦ 03 — GITHUB ANALYTICS
 
-<!-- Stats & Top Languages Side-by-Side -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF" height="175" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" height="175" alt="Top Languages"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=antar4241&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=A78BFA&text_color=FFFFFF" alt="GitHub Stats"/>
 
-<!-- Contribution Streak -->
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" width="85%" alt="GitHub Streak"/>
-</p>
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=antar4241&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&text_color=FFFFFF" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://streak-stats.demolab.com?user=antar4241&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=A78BFA&currStreakLabel=00E5FF&sideLabels=FFFFFF&dates=AAAAAA" alt="GitHub Streak"/>
 
 </div>
 
@@ -78,7 +77,7 @@
 
 ## ✦ 04 — CONTRIBUTION ACTIVITY GRAPH
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=antar4241&bg_color=0D1117&color=00E5FF&line=A78BFA&point=00E5FF&area=true&hide_border=true" width="95%" alt="GitHub Activity Graph"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=antar4241&bg_color=0D1117&color=00E5FF&line=A78BFA&point=00E5FF&area=true&hide_border=true" alt="GitHub Activity Graph"/>
 
 </div>
 
@@ -125,7 +124,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&width=650&height=45&lines=THINK+DIFFERENT.+CREATE+BETTER.;TURN+IDEAS+INTO+REALITY.;NEVER+STOP+LEARNING." alt="Developer Mindset"/>
 
-<br/>
+<br/><br/>
 
 <a href="https://github.com/antar4241">
   <img src="https://img.shields.io/badge/FOLLOW%20ME%20ON%20GITHUB-111827?style=for-the-badge&logo=github&logoColor=00E5FF"/>
